@@ -3,6 +3,6 @@
     "reboot": false
   },
   "pi4": {
-    "reboot": false
+    "reboot": true
   }
 }
