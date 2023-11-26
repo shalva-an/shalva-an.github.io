@@ -1,6 +1,6 @@
 {
   "pi3": {
-    "reboot": true
+    "reboot": false
   },
   "pi4": {
     "reboot": false
