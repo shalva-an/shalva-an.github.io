@@ -4,5 +4,11 @@
   },
   "pi4": {
     "reboot": false
+  },
+  "pi5": {
+    "reboot": false
+  },
+  "pi5b": {
+    "reboot": false
   }
 }
